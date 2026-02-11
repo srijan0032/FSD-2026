@@ -44,10 +44,10 @@ console.log(Math.pow(2,3));
 
 
 //string
-txt="hello world";
-console.log(txt);
-console.log(txt.length);
-console.log(txt.includes("html"));
+text = "hello world";
+console.log(text);
+console.log(text.length);
+console.log(text.includes("html"));
 
 
 //typr conversion
